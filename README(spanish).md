@@ -1,6 +1,6 @@
 #refactorAsignación-
 
-Examinó la sintaxis asignada y agregó la sintaxis faltante agregada para optomize la página. También revisó el archivo CSS para asegurarse de que está vinculado correctamente y agregó descripciones a las etiquetas css para facilitar la actualización.
+Examinó la sintaxis asignada y agregó la sintaxis faltante agregada para optimize la página. También revisó el archivo CSS para asegurarse de que está vinculado correctamente y agregó descripciones a las etiquetas css para facilitar la actualización.
 
 Horiseon-
 
